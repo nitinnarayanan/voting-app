@@ -21,7 +21,7 @@ The architecture includes the following AWS services:
 
 Check out our architecture diagram for a clearer view:
 
-![image](https://github.com/user-attachments/assets/5b1da414-23bb-43d9-90df-d686a47c58c8)
+![](https://github.com/user-attachments/assets/20bfb121-e097-459e-a7ad-7ad999d0b6df)
 
 This project sets up a continuous integration and continuous delivery (CI/CD) pipeline on Amazon Web Services (AWS) for the voting application running on Amazon EC2. The application is automatically updated whenever code is modified in the specified AWS CodeCommit repository branch, ensuring seamless operation without interrupting the Amazon ECS service.
 
